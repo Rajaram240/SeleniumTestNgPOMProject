@@ -1,0 +1,142 @@
+2025-05-22 19:42:46 INFO  BaseTest:20 - Entered username
+2025-05-22 19:42:46 INFO  BaseTest:22 - Entered password
+2025-05-22 19:42:50 INFO  BaseTest:26 - User is in admin panel
+2025-05-22 19:42:52 INFO  BaseTest:29 - User entered the record to be searched
+2025-05-22 19:43:06 INFO  BaseTest:33 - User record is deleted
+2025-05-22 19:43:06 INFO  BaseTest:35 - Entered username to search
+2025-05-22 19:44:49 INFO  BaseTest:20 - Entered username
+2025-05-22 19:44:49 INFO  BaseTest:22 - Entered password
+2025-05-22 19:44:58 INFO  BaseTest:26 - User is in admin panel
+2025-05-22 19:45:01 INFO  BaseTest:29 - User entered the record to be searched
+2025-05-22 19:45:37 INFO  BaseTest:20 - Entered username
+2025-05-22 19:45:37 INFO  BaseTest:22 - Entered password
+2025-05-22 19:45:41 INFO  BaseTest:26 - User is in admin panel
+2025-05-22 19:45:44 INFO  BaseTest:29 - User entered the record to be searched
+2025-05-22 19:45:59 INFO  BaseTest:33 - User record is deleted
+2025-05-22 19:45:59 INFO  BaseTest:35 - Entered username to search
+2025-05-22 19:46:12 INFO  BaseTest:53 - The Record for user aaaaa aaaaais no longer available or deleted
+2025-05-22 19:46:15 INFO  BaseTest:39 - Logged Out.....
+2025-05-22 19:48:30 INFO  BaseTest:20 - Entered username
+2025-05-22 19:48:30 INFO  BaseTest:22 - Entered password
+2025-05-22 19:48:33 INFO  BaseTest:26 - User is in admin panel
+2025-05-22 19:48:35 INFO  BaseTest:29 - User entered the record to be searched
+2025-05-22 19:48:51 INFO  BaseTest:33 - User record is deleted
+2025-05-22 19:48:51 INFO  BaseTest:35 - Entered username to search
+2025-05-22 19:48:55 INFO  BaseTest:53 - The Record for user PVWxBmaIis no longer available or deleted
+2025-05-22 19:49:03 INFO  BaseTest:40 - Logged Out.....
+2025-05-22 19:53:39 INFO  BaseTest:19 - Entered username
+2025-05-22 19:53:39 INFO  BaseTest:21 - Entered password
+2025-05-22 19:53:41 INFO  BaseTest:25 - go to admin panel
+2025-05-22 19:53:44 INFO  BaseTest:28 - clicked add
+2025-05-22 19:53:47 INFO  BaseTest:30 - Entered userrole
+2025-05-22 19:55:04 INFO  BaseTest:19 - Entered username
+2025-05-22 19:55:04 INFO  BaseTest:21 - Entered password
+2025-05-22 19:55:06 INFO  BaseTest:25 - go to admin panel
+2025-05-22 19:55:09 INFO  BaseTest:28 - clicked add
+2025-05-22 19:55:11 INFO  BaseTest:30 - Entered userrole
+2025-05-22 19:59:43 INFO  BaseTest:19 - Entered username
+2025-05-22 19:59:43 INFO  BaseTest:21 - Entered password
+2025-05-22 19:59:45 INFO  BaseTest:25 - go to admin panel
+2025-05-22 19:59:48 INFO  BaseTest:28 - clicked add
+2025-05-22 19:59:51 INFO  BaseTest:30 - Entered userrole
+2025-05-22 20:01:53 INFO  BaseTest:19 - Entered username
+2025-05-22 20:01:53 INFO  BaseTest:21 - Entered password
+2025-05-22 20:02:01 INFO  BaseTest:25 - go to admin panel
+2025-05-22 20:02:03 INFO  BaseTest:28 - clicked add
+2025-05-22 20:02:06 INFO  BaseTest:30 - Entered userrole
+2025-05-22 20:02:09 INFO  BaseTest:32 - Entered empname
+2025-05-22 20:02:11 INFO  BaseTest:34 - selected status
+2025-05-22 20:02:11 INFO  BaseTest:36 - Entered username
+2025-05-22 20:02:11 INFO  BaseTest:38 - Entered password
+2025-05-22 20:02:12 INFO  BaseTest:40 - Entered confirm password
+2025-05-22 20:02:12 INFO  BaseTest:42 - Submitted
+2025-05-22 20:11:19 INFO  BaseTest:20 - User is in the login page
+2025-05-22 20:11:20 INFO  BaseTest:22 - User entered username
+2025-05-22 20:11:20 INFO  BaseTest:24 - User entered password
+2025-05-22 20:11:20 INFO  BaseTest:26 - User click login button
+2025-05-22 20:11:24 INFO  BaseTest:29 - User is in the admin panel
+2025-05-22 20:11:25 INFO  BaseTest:31 - click add button to add user role
+2025-05-22 20:11:28 INFO  BaseTest:33 - Userrole is entered
+2025-05-22 20:11:31 INFO  BaseTest:35 - Entered the empname
+2025-05-22 20:11:33 INFO  BaseTest:37 - selected the status
+2025-05-22 20:11:34 INFO  BaseTest:39 - Entered the username
+2025-05-22 20:11:34 INFO  BaseTest:41 - Entered password
+2025-05-22 20:11:34 INFO  BaseTest:43 - Entered confirm password
+2025-05-22 20:11:34 INFO  BaseTest:45 - Submitted
+2025-05-22 20:11:46 INFO  BaseTest:49 - User is selected to be edited
+2025-05-22 20:11:57 INFO  BaseTest:51 - edit button is clicked
+2025-05-22 20:12:01 INFO  BaseTest:54 - user role has changed to ess
+2025-05-22 20:12:01 INFO  BaseTest:56 - Submitted
+2025-05-22 20:12:09 INFO  BaseTest:60 - User entered the record to be searched
+2025-05-22 20:12:14 INFO  BaseTest:62 - The record is been searched
+2025-05-22 20:12:19 INFO  BaseTest:64 - record is deleted
+2025-05-22 20:12:25 INFO  BaseTest:67 - Entered username to search
+2025-05-22 20:12:29 INFO  BaseTest:69 - The record is been searched
+2025-05-22 20:12:29 INFO  BaseTest:53 - The Record for user saniyaPagalis no longer available or deleted
+2025-05-22 20:12:33 INFO  BaseTest:73 - Logged Out.....
+2025-05-22 20:28:41 INFO  BaseTest:20 - User is in the login page
+2025-05-22 20:28:42 INFO  BaseTest:22 - User entered username
+2025-05-22 20:28:42 INFO  BaseTest:24 - User entered password
+2025-05-22 20:28:42 INFO  BaseTest:26 - User click login button
+2025-05-22 20:28:46 INFO  BaseTest:29 - User is in the admin panel
+2025-05-22 20:28:47 INFO  BaseTest:31 - click add button to add user role
+2025-05-22 20:28:50 INFO  BaseTest:33 - Userrole is entered
+2025-05-22 20:28:53 INFO  BaseTest:35 - Entered the empname
+2025-05-22 20:28:56 INFO  BaseTest:37 - selected the status
+2025-05-22 20:28:56 INFO  BaseTest:39 - Entered the username
+2025-05-22 20:28:56 INFO  BaseTest:41 - Entered password
+2025-05-22 20:28:56 INFO  BaseTest:43 - Entered confirm password
+2025-05-22 20:28:56 INFO  BaseTest:45 - Submitted
+2025-05-22 20:29:10 INFO  BaseTest:49 - User is selected to be edited
+2025-05-22 20:30:06 INFO  BaseTest:20 - User is in the login page
+2025-05-22 20:30:07 INFO  BaseTest:22 - User entered username
+2025-05-22 20:30:07 INFO  BaseTest:24 - User entered password
+2025-05-22 20:30:07 INFO  BaseTest:26 - User click login button
+2025-05-22 20:30:10 INFO  BaseTest:29 - User is in the admin panel
+2025-05-22 20:30:12 INFO  BaseTest:31 - click add button to add user role
+2025-05-22 20:30:15 INFO  BaseTest:33 - Userrole is entered
+2025-05-22 20:30:18 INFO  BaseTest:35 - Entered the empname
+2025-05-22 20:30:20 INFO  BaseTest:37 - selected the status
+2025-05-22 20:30:21 INFO  BaseTest:39 - Entered the username
+2025-05-22 20:30:21 INFO  BaseTest:41 - Entered password
+2025-05-22 20:30:21 INFO  BaseTest:43 - Entered confirm password
+2025-05-22 20:30:21 INFO  BaseTest:45 - Submitted
+2025-05-22 20:30:28 INFO  BaseTest:49 - User is selected to be edited
+2025-05-22 20:33:53 INFO  BaseTest:20 - User is in the login page
+2025-05-22 20:33:55 INFO  BaseTest:22 - User entered username
+2025-05-22 20:33:55 INFO  BaseTest:24 - User entered password
+2025-05-22 20:33:55 INFO  BaseTest:26 - User click login button
+2025-05-22 20:34:03 INFO  BaseTest:29 - User is in the admin panel
+2025-05-22 20:34:04 INFO  BaseTest:31 - click add button to add user role
+2025-05-22 20:34:07 INFO  BaseTest:33 - Userrole is entered
+2025-05-22 20:34:10 INFO  BaseTest:35 - Entered the empname
+2025-05-22 20:34:12 INFO  BaseTest:37 - selected the status
+2025-05-22 20:34:12 INFO  BaseTest:39 - Entered the username
+2025-05-22 20:34:13 INFO  BaseTest:41 - Entered password
+2025-05-22 20:34:13 INFO  BaseTest:43 - Entered confirm password
+2025-05-22 20:34:13 INFO  BaseTest:45 - Submitted
+2025-05-22 20:34:25 INFO  BaseTest:49 - User is selected to be edited
+2025-05-22 20:38:39 INFO  BaseTest:20 - User is in the login page
+2025-05-22 20:38:40 INFO  BaseTest:22 - User entered username
+2025-05-22 20:38:40 INFO  BaseTest:24 - User entered password
+2025-05-22 20:38:40 INFO  BaseTest:26 - User click login button
+2025-05-22 20:38:44 INFO  BaseTest:29 - User is in the admin panel
+2025-05-22 20:38:45 INFO  BaseTest:31 - click add button to add user role
+2025-05-22 20:38:48 INFO  BaseTest:33 - Userrole is entered
+2025-05-22 20:38:51 INFO  BaseTest:35 - Entered the empname
+2025-05-22 20:38:54 INFO  BaseTest:37 - selected the status
+2025-05-22 20:38:54 INFO  BaseTest:39 - Entered the username
+2025-05-22 20:38:54 INFO  BaseTest:41 - Entered password
+2025-05-22 20:38:54 INFO  BaseTest:43 - Entered confirm password
+2025-05-22 20:38:54 INFO  BaseTest:45 - Submitted
+2025-05-22 20:39:14 INFO  BaseTest:49 - User is selected to be edited
+2025-05-22 20:39:24 INFO  BaseTest:51 - edit button is clicked
+2025-05-22 20:39:28 INFO  BaseTest:54 - user role has changed to ess
+2025-05-22 20:39:29 INFO  BaseTest:56 - Submitted
+2025-05-22 20:39:37 INFO  BaseTest:60 - User entered the record to be searched
+2025-05-22 20:39:41 INFO  BaseTest:62 - The record is been searched
+2025-05-22 20:39:46 INFO  BaseTest:64 - record is deleted
+2025-05-22 20:39:52 INFO  BaseTest:67 - Entered username to search
+2025-05-22 20:39:56 INFO  BaseTest:69 - The record is been searched
+2025-05-22 20:39:56 INFO  BaseTest:53 - The Record for user Raj24is no longer available or deleted
+2025-05-22 20:39:59 INFO  BaseTest:73 - Logged Out.....
