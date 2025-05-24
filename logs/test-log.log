@@ -140,3 +140,34 @@
 2025-05-22 20:39:56 INFO  BaseTest:69 - The record is been searched
 2025-05-22 20:39:56 INFO  BaseTest:53 - The Record for user Raj24is no longer available or deleted
 2025-05-22 20:39:59 INFO  BaseTest:73 - Logged Out.....
+2025-05-24 19:24:37 INFO  BaseTest:20 - User is in the login page
+2025-05-24 19:24:37 INFO  BaseTest:22 - User entered username
+2025-05-24 19:24:37 INFO  BaseTest:24 - User entered password
+2025-05-24 19:24:38 INFO  BaseTest:26 - User click login button
+2025-05-24 19:24:41 INFO  BaseTest:29 - User is in the admin panel
+2025-05-24 19:24:42 INFO  BaseTest:31 - click add button to add user role
+2025-05-24 19:24:45 INFO  BaseTest:33 - Userrole is entered
+2025-05-24 19:26:07 INFO  BaseTest:20 - User is in the login page
+2025-05-24 19:26:08 INFO  BaseTest:22 - User entered username
+2025-05-24 19:26:08 INFO  BaseTest:24 - User entered password
+2025-05-24 19:26:08 INFO  BaseTest:26 - User click login button
+2025-05-24 19:26:12 INFO  BaseTest:29 - User is in the admin panel
+2025-05-24 19:26:14 INFO  BaseTest:31 - click add button to add user role
+2025-05-24 19:26:16 INFO  BaseTest:33 - Userrole is entered
+2025-05-24 19:26:20 INFO  BaseTest:35 - Entered the empname
+2025-05-24 19:26:22 INFO  BaseTest:37 - selected the status
+2025-05-24 19:26:22 INFO  BaseTest:39 - Entered the username
+2025-05-24 19:26:22 INFO  BaseTest:41 - Entered password
+2025-05-24 19:26:23 INFO  BaseTest:43 - Entered confirm password
+2025-05-24 19:26:23 INFO  BaseTest:45 - Submitted
+2025-05-24 19:26:36 INFO  BaseTest:49 - User is selected to be edited
+2025-05-24 19:26:47 INFO  BaseTest:51 - edit button is clicked
+2025-05-24 19:26:51 INFO  BaseTest:54 - user role has changed to ess
+2025-05-24 19:26:51 INFO  BaseTest:56 - Submitted
+2025-05-24 19:26:59 INFO  BaseTest:60 - User entered the record to be searched
+2025-05-24 19:27:04 INFO  BaseTest:62 - The record is been searched
+2025-05-24 19:27:09 INFO  BaseTest:64 - record is deleted
+2025-05-24 19:27:15 INFO  BaseTest:67 - Entered username to search
+2025-05-24 19:27:20 INFO  BaseTest:69 - The record is been searched
+2025-05-24 19:27:20 INFO  BaseTest:53 - The Record for user Raj24is no longer available or deleted
+2025-05-24 19:27:24 INFO  BaseTest:73 - Logged Out.....

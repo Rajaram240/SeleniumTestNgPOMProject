@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-22T20:38:32 IST" name="AutomationSuite" finished-at="2025-05-22T20:40:00 IST" duration-ms="88255">
+  <suite started-at="2025-05-24T19:26:00 IST" name="AutomationSuite" finished-at="2025-05-24T19:27:25 IST" duration-ms="85213">
     <groups>
     </groups>
-    <test started-at="2025-05-22T20:38:32 IST" name="CrossBrowserLoginTest" finished-at="2025-05-22T20:40:00 IST" duration-ms="88255">
+    <test started-at="2025-05-24T19:26:00 IST" name="CrossBrowserLoginTest" finished-at="2025-05-24T19:27:25 IST" duration-ms="85213">
       <class name="testCases.CrudOperation">
-        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:38:32 IST" name="beforeTestMethod" finished-at="2025-05-22T20:38:33 IST" duration-ms="355" status="PASS">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:26:00 IST" name="beforeTestMethod" finished-at="2025-05-24T19:26:00 IST" duration-ms="397" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:38:33 IST" name="beforeMethod" finished-at="2025-05-22T20:38:39 IST" duration-ms="6579" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:26:00 IST" name="beforeMethod" finished-at="2025-05-24T19:26:07 IST" duration-ms="7087" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="AddUser()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:38:39 IST" name="AddUser" finished-at="2025-05-22T20:39:59 IST" duration-ms="80250" status="PASS">
+        <test-method signature="AddUser()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:26:07 IST" name="AddUser" finished-at="2025-05-24T19:27:24 IST" duration-ms="76735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddUser -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:39:59 IST" name="afterMethod" finished-at="2025-05-22T20:39:59 IST" duration-ms="23" status="PASS">
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:27:24 IST" name="afterMethod" finished-at="2025-05-24T19:27:24 IST" duration-ms="12" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,11 +37,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:39:59 IST" name="teardown" finished-at="2025-05-22T20:40:00 IST" duration-ms="413" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:27:24 IST" name="teardown" finished-at="2025-05-24T19:27:24 IST" duration-ms="398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-22T20:40:00 IST" name="afterTest" finished-at="2025-05-22T20:40:00 IST" duration-ms="549" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.CrudOperation@1e6454ec]" started-at="2025-05-24T19:27:24 IST" name="afterTest" finished-at="2025-05-24T19:27:25 IST" duration-ms="512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

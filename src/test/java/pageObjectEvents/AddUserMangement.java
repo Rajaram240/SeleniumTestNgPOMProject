@@ -16,7 +16,7 @@ public class AddUserMangement extends BaseTest {
 	By listBoxAdmin=By.xpath("//div[@role='listbox']//span[text()='Admin']");
 	By listBoxESS=By.xpath("//div[@role='listbox']//span[text()='ESS']");
 	By listBoxStatus=By.xpath("//div[@role='listbox']//span[text()='Enabled']");
-	By listBoxUsername=By.xpath("//div[@role='listbox']//span[contains(text(), 'admin')][1]");
+	By listBoxUsername=By.xpath("//div[@role='listbox']//span[contains(text(), 'ad')][1]");
 	By empName=	By.xpath("//input[@placeholder=\"Type for hints...\"]");
 	By selstatus=By.xpath("//label[text()=\"Status\"]/following::div[@class=\"oxd-select-text-input\"]");
 	By userName=By.xpath("//label[text()=\"Username\"]/following::input[@class=\"oxd-input oxd-input--active\"]");
@@ -47,7 +47,7 @@ public class AddUserMangement extends BaseTest {
 	}
 
 	public void employeeName() throws InterruptedException {
-		driver.findElement(empName).sendKeys("Admin");
+		driver.findElement(empName).sendKeys("Ad");
 		Thread.sleep(3000);
 		driver.findElement(listBoxUsername).click();
 		}

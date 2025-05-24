@@ -11,8 +11,8 @@
         <methods>
           <include name="afterTest"/>
           <include name="beforeMethod"/>
-          <include name="AddUser"/>
           <include name="afterMethod"/>
+          <include name="AddUser"/>
           <include name="beforeTestMethod"/>
           <include name="teardown"/>
         </methods>
