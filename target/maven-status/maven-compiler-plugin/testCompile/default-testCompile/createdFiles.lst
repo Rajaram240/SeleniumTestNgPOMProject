@@ -1,0 +1,13 @@
+utils\Constants.class
+pageObjectEvents\SearchWithEdit.class
+testCases\SearchAndEditUser.class
+baseTest\BaseTest.class
+pageObjectEvents\AddUserMangement.class
+utils\RetryAnalyzer.class
+pageObjectEvents\DeleteTheRecord.class
+testCases\CrudOperation.class
+testCases\AddUserMgmt.class
+pageObjectEvents\LoginPage.class
+testCases\Login.class
+utils\SuiteListener.class
+testCases\DeleteTheUser.class
